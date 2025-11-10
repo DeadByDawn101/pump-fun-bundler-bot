@@ -148,7 +148,7 @@ pumpfun bundler bot/
 ├── LICENSE
 
 ```
-# 📁 Installation
+## 📁 Installation
 1. **Download the latest [Releases](../../releases)**
 2. **Extract the Archive:**
    - `Unzip all files into a single folder.`
@@ -167,3 +167,23 @@ pumpfun bundler bot/
 
 > ⚠️ Never use main wallets.  
 > Create a test account for experiments.
+
+## ⚠️ Disclaimer
+
+This software is intended for **research and educational purposes only**.
+Executing MEV strategies on live networks involves **high financial risk**.
+Users are responsible for compliance with **local regulations**.
+
+---
+
+## 📌 Key Advantages
+
+* **Private Solana RPC nodes <5ms latency** for instant transaction propagation
+* **Atomic multi-strategy MEV execution**: Arbitrage, Sandwich, Liquidation, Backrunning
+* **Real-time simulation and dynamic priority fee optimization**
+* **Hybrid Rust + Go + Python architecture** for speed, reliability, and profit
+* Fully modular pipeline ready for **custom Solana MEV strategies**
+
+---
+
+End of README
