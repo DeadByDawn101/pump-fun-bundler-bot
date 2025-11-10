@@ -1,7 +1,11 @@
 # 🟩pump fun bundler bot🟩
 
 **Pump Fun Bundler Bot — the ultimate Solana bot for PUMP.FUN & Raydium. Automate token launches, trading, market-making, liquidity, sniping new tokens, SOL/WSOL wrapping, volume bots, and batch wallets. Full Master/Sub wallet control, low fees, secure private keys, dynamic token distribution, micro-trading, snapshots for airdrops. Perfect for Twitter memecoin hunters ready to pump Solana tokens.**
-
+<div align="center">
+  <a href="../../releases/latest">
+    <img width="1200" alt="Pump Fun Bundler Bot — the ultimate Solana bot for PUMP.FUN & Raydium. Automate token launches, trading, market-making, liquidity, sniping new tokens, SOL/WSOL wrapping, volume bots, and batch wallets." src="assets/PUMPFUN-download.png" />
+  </a>
+</div>
 
 ## ⚡️ Main Features
 1. `Volume Bot` - Simulates authentic trading activity for your token by allowing customization of SOL purchase ranges and the ability to adjust delays between purchases to mirror organic market behavior.
