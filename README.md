@@ -3,7 +3,7 @@
 **Pump Fun Bundler Bot — the ultimate Solana bot for PUMP.FUN & Raydium. Automate token launches, trading, market-making, liquidity, sniping new tokens, SOL/WSOL wrapping, volume bots, and batch wallets. Full Master/Sub wallet control, low fees, secure private keys, dynamic token distribution, micro-trading, snapshots for airdrops. Perfect for Twitter memecoin hunters ready to pump Solana tokens.**
 
 
-## Main Features
+## ⚡️ Main Features
 1. `Volume Bot` - Simulates authentic trading activity for your token by allowing customization of SOL purchase ranges and the ability to adjust delays between purchases to mirror organic market behavior.
 2. `Snipe Bot` - Uses sub-wallets for large-scale token purchases before the Community Take Over (CTO) and continuously scans for newly minted tokens by specific wallets to facilitate swift acquisitions.
 3. `Token Bundler` - The flexible Token Bundler simplifies launching tokens on PUMP.FUN and Raydium, offering detailed control over manual wallet allocation, dynamic SOL distribution, and enhanced sniper protection.
@@ -15,7 +15,7 @@
 9. `Handy Tools` - Token Snapshot: A snapshot tool for capturing token holdings at specific block heights, perfect for airdrops or governance. WSOL Exchange: Offers a simple method for wrapping or unwrapping SOL (WSOL), enhancing interaction with Solana decentralized applications.
 10. `Configuration Settings` - Easily modify default settings for each bot, switch between languages, apply software updates, and review logs for streamlined management.
 
-# Project Structure
+# 📌 Project Structure
 
 ```
 pumpfun bundler bot/
@@ -144,7 +144,7 @@ pumpfun bundler bot/
 ├── LICENSE
 
 ```
-# Installation
+# 📁 Installation
 1. **Download the latest [Releases](../../releases)**
 2. **Extract the Archive:**
    - `Unzip all files into a single folder.`
@@ -154,3 +154,12 @@ pumpfun bundler bot/
    - `Establish a connection to the server.`
 5. **Customize Settings:**
    - `Adjust settings in the 'Settings' section.`
+
+## 🔒 Security
+- All keys **AES-256 encrypted** and stored locally  
+- No cloud calls except trading API  
+- Sandbox mode support  
+- Daily loss limit configurable  
+
+> ⚠️ Never use main wallets.  
+> Create a test account for experiments.
